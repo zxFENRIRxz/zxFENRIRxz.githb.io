@@ -1,4 +1,5 @@
-![banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffactoryworks.aprilia.com%2Fen-GB%2Ffull-bike%2Faprilia-rsv4-xtrenta&psig=AOvVaw0gH4S14rtyhW8cD9Do6Gko&ust=1707894780864000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDa1oDip4QDFQAAAAAdAAAAABAE)
+![banner](![wp6237944](https://github.com/zxFENRIRxz/zxFENRIRxz.githb.io/assets/159877762/30da6d62-b419-4716-8b8a-7bf326f70a24)
+)
 # สมุดบันทึก
 
 สำหรับวิชา OOP
