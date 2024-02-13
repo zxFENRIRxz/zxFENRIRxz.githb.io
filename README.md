@@ -5,3 +5,14 @@
 
 ![download banner](./main.jpg)
 ศุภสัณห์ รังศรี 
+# code
+```
+git status
+git add
+git commit
+```
+
+## คำสั่งพื้นฐาาน
+```
+d = {'anna','job',ja}
+```
