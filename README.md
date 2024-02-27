@@ -1,5 +1,9 @@
 ![banner](https://factoryworks.aprilia.com/img/motorbikes/mm-race-1100-2022/detail-00.jpg?v018)
 # สมุดบันทึก
+# application title 
+# id :__
+# name : first last
+# technology :[pygame/streamlit]
 
 สำหรับวิชา [OOP](https://www.facebook.com/profile.php?id=100091516873509) 
 
